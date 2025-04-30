@@ -41,7 +41,7 @@ nltk.download('stopwords')
 
 ---
 
-## 📁Notebooks Overview
+## Notebooks Overview
 
 ### `benchmark_sentiment_analysis_new.ipynb`
 
